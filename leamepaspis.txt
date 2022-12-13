@@ -1,0 +1,25 @@
+esta es la documentacion de la pagina BARBERIA ALURA
+etiquetas
+<strong ></strong>para dejar dentro del parrafo titulos resaltados  en negrilla
+<em></em>tipo de letra italica
+<!DOCTYPE html>version reciente de html5 para el navegador informa que tipo de document 
+<html></html>contenido
+<meta charset="UTF-8">diccionario que se debe usar-acentoscaracrteres especiales 
+<html lang="es">idioma
+<TItle></TItle> TITULODELAPAGINA
+<head></head>etuquetas INFORMATIVAX
+<body></body>etiquetade contenido
+
+CSS
+text-align: center sintaxis para separar propiedad y valor
+
+imagen img src=""
+
+listas
+lista no ordenada   <ul></ul>
+lista Ordenada<ol></ol>
+lista <li></li>
+division <div></div>
+ ajustar listascomimagenul{
+    display: inline-block;
+}
